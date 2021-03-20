@@ -1,5 +1,5 @@
 # Recommendation_System_ALS
-1. 建立資料夾
+1. 在HDFS建立資料夾
 * `$ hadoop fs -mkdir als`
 
 2. 上傳資料到HDFS
